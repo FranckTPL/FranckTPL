@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Franck from [The Productivity Lab](https://theproductivitylab.io/)
+- 👀 I’m interested in Digital Transformation and Automation
+- 🌱 I’m currently learning Quantum Computing and Gen AI
+- 📫 You can reach me at franck@theproductivitylab.io
